@@ -1,0 +1,8 @@
+#
+###### Requirements ######
+# Requirements install with: python -m pip install -r requirements.txt
+# https://pip.pypa.io/en/latest/user_guide/#requirements-files
+#
+# pandas: https://pypi.org/project/pandas/
+pandas
+#
